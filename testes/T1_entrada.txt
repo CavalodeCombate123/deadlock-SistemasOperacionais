@@ -1,0 +1,16 @@
+PROCESSOS A B C D E F G
+RECURSOS R S T U V W
+ARESTAS
+R A
+A S
+C S
+D S
+F S
+W F
+B T
+D T
+T E
+E V
+V G
+G U
+U D

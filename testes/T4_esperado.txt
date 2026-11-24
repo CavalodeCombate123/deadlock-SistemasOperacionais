@@ -1,0 +1,1 @@
+Há deadlock: D -> T -> E -> V -> Z -> U -> D

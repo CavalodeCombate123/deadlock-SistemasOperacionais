@@ -1,0 +1,1 @@
+Há deadlock: A -> S -> B -> T -> C -> R -> A
