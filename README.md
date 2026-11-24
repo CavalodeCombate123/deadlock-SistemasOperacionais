@@ -308,4 +308,4 @@ $ python deadlock.py --testes
 | Formato de entrada único, documentado | Opção 1 (lista de arestas), seção 4 |
 | Saída com "Há deadlock" e o ciclo, ou "Sem deadlock" | Seção 6 |
 | Declaração da participação de cada integrante | Seção 9 |
-| Apresentação de 5 a 8 minutos, com demonstração ao vivo | 
+| Apresentação com demonstração| 
