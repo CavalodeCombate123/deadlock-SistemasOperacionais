@@ -187,7 +187,7 @@ Cada processo espera um recurso que está com outro, o que fecha o ciclo A, B, C
 
 ### T4 – Grafo 1 com deadlock
 
-Grafo desenhado pela equipe, com cinco processos e cinco recursos. Há um ciclo e um ramo que sai dele sem voltar.
+Grafo obrigatório do projeto, com cinco processos e cinco recursos. Há um ciclo e um ramo que sai dele sem voltar.
 
 Entrada (`testes/T4_entrada.txt`):
 
@@ -217,7 +217,7 @@ Com `-v`, a lista L é `[B, T, E, V, Z, U, D, T]`. O processo `B` apenas pede `T
 
 ### T5 – Grafo 2 sem deadlock
 
-Grafo desenhado pela equipe, com oito processos e seis recursos, ramificado e sem ciclo.
+Grafo obrigatório do projeto, com oito processos e seis recursos, ramificado e sem ciclo.
 
 Entrada (`testes/T5_entrada.txt`):
 
