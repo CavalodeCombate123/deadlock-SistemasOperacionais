@@ -1,4 +1,4 @@
-# Trabalho 2 – Detector de Deadlock com Grafo de Alocação
+# Projeto – Detector de Deadlock com Grafo de Alocação
 
 **Disciplina:** Sistemas Operacionais – Engenharia de Computação
 **Base:** Aula 07 – Impasses (Prof. Dr. Iago Medeiros)
